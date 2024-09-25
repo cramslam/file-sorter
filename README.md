@@ -17,7 +17,6 @@ This project was built and tested on **Windows 11** and has not been tested on o
 - **Dark-mode UI** with a sleek, modern look powered by customtkinter.
 - **Log panel** for tracking folder creation and file movements.
 - **Select All/Deselect All** checkbox functionality for quick selection of file types.
-- **Custom icons** for the window and taskbar.
 
 ## Installation
 
